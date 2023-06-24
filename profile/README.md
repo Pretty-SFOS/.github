@@ -17,6 +17,6 @@ Translations are managed using [Weblate](https://hosted.weblate.org/projects/opa
 
 Opal is stable but still very young, so some documentation may be missing or unclear. All contributions are welcome! Don't hesitate to open an issue to clarify any questions you have, so that we can improve the documentation.
 
-Qmllive, the live reloading tool in the Sailfish SDK, does not yet work properly with some modules. This is presumably due to a bug in Qmllive.
+QmlLive, the live reloading tool in the Sailfish SDK, does not yet work properly with some modules. This is presumably due to a bug in QmlLive.
 
 Right-to-left support is still lacking in Opal as well as in Sailfish. Please open an issue if any module does not work as intended using a right-to-left layout!
